@@ -7,3 +7,4 @@ table{width:100%;border-collapse:collapse;background:#fff}
 th,td{border:1px solid #ddd;padding:6px;font-size:13px;text-align:left}
 th{background:#eee}
 .del{color:#c00;cursor:pointer}
+.estado{padding:10px;border-radius:6px;background:#fdecea;color:#a00;border:1px solid #f5c2c0}
